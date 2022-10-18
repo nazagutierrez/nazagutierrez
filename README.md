@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazareno Gutierrez</h1>
 <h3 align="center">A Front-end Developer with ReactJS</h3>
 
-- 🌱 I’m currently learning **ReactJS in Openbootcamp**
+- 🌱 I’m currently learning **Advanced ReactJS in Openbootcamp**
 
 - 💬 Ask me about **react, redux, javascript, html, css, scss and bootstrap**
 
