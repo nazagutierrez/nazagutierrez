@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazareno Gutierrez</h1>
 <h3 align="center">A Front-end Developer with ReactJS</h3>
 
-- 🌱 I’m currently learning **Backend with NodeJS**
+- 🌱 Currently learning **Databases and Advanced Backend**
 
-- 💬 Ask me about **React, NextJS, Javascript, HTML, CSS, SASS, Bootstrap, Material MUI, TailwindCSS**
+- 💬 Ask me about **React, Next.js, Javascript, HTML, CSS, SASS, Bootstrap, Material MUI, TailwindCSS**
 
 - 📫 How to reach me **nazarenojunin@gmail.com**
 
