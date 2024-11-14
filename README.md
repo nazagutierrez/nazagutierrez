@@ -2,16 +2,17 @@
 
 ## About Me 🚀
 Creative and self-taught web programmer capable of creating and designing innovative and high-quality pages. 
-With solid knowledge in Frontend and a good comunication with the client. Work experience in 3 freelance projects.
+With solid knowledge in Frontend and a good comunication with the client. 
++1 year working in startups and freelance projects.
 
 ## Technologies 🛠️
 <b>-</b> Javascript | Typescript | React | Nextjs
 
 <b>-</b> HTML | CSS | TailwindCSS | Firebase
 
-<b>-</b> Git | Firebase | Nodejs
+<b>-</b> Git | Firebase | Nodejs | Bootstrap
 
-## Contact 📬
+## Contact ✉️
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazarenogutierrez1) or by email at nazarenojunin@gmail.com
 
-My [portfolio](https://github.com/nazagutierrez) 💼
+My [portfolio](https://nazagutierrez.github.io/portfolio/) 💼
