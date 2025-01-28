@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/nazarenogutierrez1">Nazareno Gutierrez<a/>! 👋 </br> <b>Frontend developer with React 💻</b> <img src="https://svgl.app/library/react.svg" alt="materialize" width="25" height="25"/>
+# Hi, I'm <a href="https://www.linkedin.com/in/nazarenogutierrez1">Nazareno Gutierrez<a/>! 👋 </br> <b>Frontend developer with React 💻</b> <img src="https://svgl.app/library/react_dark.svg" alt="materialize" width="25" height="25"/>
 
 ## About Me 🚀
 Creative and self-taught web programmer capable of creating and designing innovative and high-quality pages. 
